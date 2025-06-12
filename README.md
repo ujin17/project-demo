@@ -1,4 +1,4 @@
-// This test case for automation login page demo example.
+// This test case for automation login page demo example usig Cypress.
 
 /// <reference types="Cypress" />
 describe('this is login page',()=>{
